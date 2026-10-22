@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm zhajiangmian 👋
 
-<!--
-**y1zh3e7-zjm/y1zh3e7-zjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Eng. student @ Institute of Information Engineering, CAS (UCAS-IIE)** · AI Security × Web Security
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on LLM security research and Agent Secuirity
+- 🌱 I'm currently learning AI security, cloud security，and machine learning
+- 📫 How to reach me: y1zh3e7@163.com
+- ⚡ Fun fact: I play electric guitar and piano, mostly J-POP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧭 Focus
+
+| Area | Keywords |
+|---|---|
+| AI Security | LLM Security · Agent Security |
+| Web Security | LLM For Pentest · Vulnerability Research |
+
+---
